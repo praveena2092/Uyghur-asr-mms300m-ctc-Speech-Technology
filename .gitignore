@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*
+!data/README.md
+mms300m-uyghur-ctc/
+checkpoints/
+*.wav
+*.pt
+*.bin
+*.safetensors
+submission.csv
+.env
